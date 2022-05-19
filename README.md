@@ -5,8 +5,7 @@
 
 
 | aper | link | code |  
-
-| ------ | ----- | ------ | 
+| ----- | ----- | ----- | 
 | FastTEXT | Bag of Tricks for Efficient Text Classification | 
 
 
